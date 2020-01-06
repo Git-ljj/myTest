@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "umi": "^2.12.3"
+  },
+  "dependencies": {
+    "serve": "^11.2.0",
+    "umi-plugin-react": "^1.14.6"
   }
 }
